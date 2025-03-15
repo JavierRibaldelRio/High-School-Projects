@@ -1,0 +1,45 @@
+---
+title: "Historia de la filosofía"
+toc: false
+toc-location: body
+---
+
+
+
+## Filosofía Antigua: Pitágoras
+
+<div id="pitagoras" class="anima">
+
+
+<a href="antigua.qmd" role="button" class="btn btn-light">Info +</a>
+</div>
+
+
+## Filosofía Medieval: Boecio
+
+<div id="boecio" class="anima" >
+
+<a href="medieval.qmd" role="button" class="btn btn-light">Info +</a>
+</div>
+
+## Filosofía Moderna: Rousseau
+
+<div id="rousseau" class="anima">
+
+<a href="moderna.qmd" role="button" class="btn btn-light">Info +</a>
+</div>
+
+
+## Contemporaneidad: Ayn Rand
+
+<div id="ayn-rand" class="anima">
+
+<a href="conte.qmd" role="button" class="btn btn-light">Info +</a>
+</div>
+
+
+<br><br><br><hr> 
+
+<div id="webgrafia">
+<a href="webgrafia.md" role="button" class="btn btn-link">Webgrafía</a>
+</div>
