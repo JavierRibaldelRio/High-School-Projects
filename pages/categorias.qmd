@@ -1,0 +1,127 @@
+---
+title: Categorías
+---
+
+# Categorías Olímpicas
+
+En el mundo de la vela competitiva, al igual que en muchos deportes hay varias categorías en las que competir. A continuación, explicaremos las olímpicas ya que con las más conocidas:
+
+<div class="accordion" id="accordionExample">
+<div class="accordion-item">
+<p class="accordion-header" id="headingx">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsex" aria-expanded="false" aria-controls="collapseTwo">
+RS:X</button>
+</p>
+<div id="collapsex" class="accordion-collapse collapse" aria-labelledby="headingx" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+Modalidad de Windsurf, a partir de 2008 sustituyó a la clase Mistral, categoría individual.
+
+![RS:X](../img/rsx.png)
+
+Cuenta con modalidad tanto femenina como masculina
+
+</div>
+</div>
+</div>
+
+
+<div class="accordion-item">
+<p class="accordion-header" id="headingTwo">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+Laser / Laser Radial
+</button>
+</p>
+<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+<a href="laser.html" class="btn no-san btn-danger">Categoría Laser</a>
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingThree">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+Finn</button>
+</p>
+<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+Yate, olímpico desde Helsinki 1952, categoría individual.
+
+![Finn](../img/finn.png)
+
+Cuenta únicamente con modalidad masculina
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingFive">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+470</button>
+</p>
+<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+470 es clase olímpica desde 1976, categoría de parejas. El velero cuenta con tres velas.
+
+![470](../img/470.png)
+
+Cuenta tanto con modalidad masculina y femenina
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingOne">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+49er</button>
+</p>
+<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+49er categoría de 2 tripulantes, el velero tiene 3 velas. La clase es olímpica desde Sidney 2000.
+
+![49er](../img/49er.png)
+
+Esta categoría cuenta con modalidad masculina y femenina.
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingFour">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+Nacra 17</button>
+</p>
+<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+Categoría de catamarán de 2 tripulantes, la embarcación cuenta con tres velas. Es olímpica desde Río 2016
+
+![Nacra 17](../img/nacara.webp)
+
+Únicamente cuenta con categoría mixta.
+</div>
+</div>
+</div>
+</div>
+
+# Otras Categorías Conocidas
+
+- Mistral
+- Optimist
+- Vaurien
+- Snipe
+- RS Feva
+- RS Tera
+- Raquero
+- Ludic
+- Cadete
+- Dragon
+- Europa
+- Patin a vela
+- L'Equipe
+- Star
+- Patín a vela
