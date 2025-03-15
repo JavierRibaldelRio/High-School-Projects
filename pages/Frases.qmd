@@ -1,0 +1,783 @@
+---
+title: Frases fetes i Locucions
+--- 
+<table class="table fets table-striped">
+
+
+<thead>
+<tr class="header">
+<th>Frase Feta</th>
+<th>Significat</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fer cap</td>
+<td>Comparéixer</td>
+</tr>
+<tr class="even">
+<td>acudir Amb un no res</td>
+<td>Ràpidament</td>
+</tr>
+<tr class="odd">
+<td>Fes feredat</td>
+<td>Causar por, horror</td>
+</tr>
+<tr class="even">
+<td>De passada</td>
+<td>Per damunt</td>
+</tr>
+<tr class="odd">
+<td>Fil per randa</td>
+<td>Detalladament</td>
+</tr>
+<tr class="even">
+<td>Si més no</td>
+<td>Almenys</td>
+</tr>
+<tr class="odd">
+<td>Fer com aquell</td>
+<td>Dissimular</td>
+</tr>
+<tr class="even">
+<td>Fer anar dret</td>
+<td>Obligar a comportar-se be</td>
+</tr>
+<tr class="odd">
+<td>Tot d’una</td>
+<td>Sobtadament</td>
+</tr>
+<tr class="even">
+<td>Fer bondat</td>
+<td>Creure, obeir</td>
+</tr>
+<tr class="odd">
+<td>Castigar la butxaca</td>
+<td>Perjudicar-se econòmicament</td>
+</tr>
+<tr class="even">
+<td>Fer cap</td>
+<td>Comparéixer</td>
+</tr>
+<tr class="odd">
+<td>Si més no</td>
+<td>Almenys</td>
+</tr>
+<tr class="even">
+<td>No badar boca</td>
+<td>No dir res</td>
+</tr>
+<tr class="odd">
+<td>Per tot arreu</td>
+<td>Per totes bandes</td>
+</tr>
+<tr class="even">
+<td>Fil per randa</td>
+<td>Detalladament</td>
+</tr>
+<tr class="odd">
+<td>Xano-xano</td>
+<td>Lentament</td>
+</tr>
+<tr class="even">
+<td>De retop</td>
+<td>De retruc</td>
+</tr>
+<tr class="odd">
+<td>Pel cap alt</td>
+<td>Com a màxim</td>
+</tr>
+<tr class="even">
+<td>A la bestreta</td>
+<td>Anticipadament</td>
+</tr>
+<tr class="odd">
+<td>Si altra cosa no</td>
+<td>Almenys</td>
+</tr>
+<tr class="even">
+<td>Pel cap baix</td>
+<td>Com a mínim</td>
+</tr>
+<tr class="odd">
+<td>Si fa no fa</td>
+<td>Aproximadament</td>
+</tr>
+<tr class="even">
+<td>De gaidó</td>
+<td>Obliquament</td>
+</tr>
+<tr class="odd">
+<td>A la babalà</td>
+<td>Precipitadament</td>
+</tr>
+<tr class="even">
+<td>De valent</td>
+<td>Intensament</td>
+</tr>
+<tr class="odd">
+<td>Al capdavall</td>
+<td>En conclusio</td>
+</tr>
+<tr class="even">
+<td>De colp i volta</td>
+<td>Inesperadament</td>
+</tr>
+<tr class="odd">
+<td>Pel cap baix</td>
+<td>Com a mínim</td>
+</tr>
+<tr class="even">
+<td>De gom a gom</td>
+<td>Completament ple</td>
+</tr>
+<tr class="odd">
+<td>En dejú</td>
+<td>Sense haver menjat res</td>
+</tr>
+<tr class="even">
+<td>A tort i a dret</td>
+<td>Tenint raó o sense tindre-la</td>
+</tr>
+<tr class="odd">
+<td>De gaidó</td>
+<td>De manera obliqua</td>
+</tr>
+<tr class="even">
+<td>Si fa no fa</td>
+<td>Aproximadament</td>
+</tr>
+<tr class="odd">
+<td>A tot estirar</td>
+<td>Com a màxim</td>
+</tr>
+<tr class="even">
+<td>Fet i passat</td>
+<td>Idèntic</td>
+</tr>
+<tr class="odd">
+<td>De debò</td>
+<td>De veritat</td>
+</tr>
+<tr class="even">
+<td>A la bestreta</td>
+<td>Per endavant</td>
+</tr>
+<tr class="odd">
+<td>De retop</td>
+<td>Havent topat</td>
+</tr>
+<tr class="even">
+<td>En conill</td>
+<td>Sense roba</td>
+</tr>
+<tr class="odd">
+<td>Fil per randa</td>
+<td>Detalladament</td>
+</tr>
+<tr class="even">
+<td>De bat a bat</td>
+<td>Completament obert</td>
+</tr>
+<tr class="odd">
+<td>A la valenta</td>
+<td>Apassionadament</td>
+</tr>
+<tr class="even">
+<td>De colp i volta</td>
+<td>D’improvís</td>
+</tr>
+<tr class="odd">
+<td>A hora horada</td>
+<td>En l’últim moment</td>
+</tr>
+<tr class="even">
+<td>A grapats</td>
+<td>En abundància</td>
+</tr>
+<tr class="odd">
+<td>De fit a fit</td>
+<td>Fixament</td>
+</tr>
+<tr class="even">
+<td>Fil per randa</td>
+<td>D’una manera detallada</td>
+</tr>
+<tr class="odd">
+<td>De gom a gom</td>
+<td>Completament ple</td>
+</tr>
+<tr class="even">
+<td>De bat a bat</td>
+<td>Completament obert</td>
+</tr>
+<tr class="odd">
+<td>A hores d’ara</td>
+<td>En estos moments</td>
+</tr>
+<tr class="even">
+<td>A muntó</td>
+<td>En abundància</td>
+</tr>
+<tr class="odd">
+<td>De colp i volta</td>
+<td>Bruscament, sense pensar-s’ho</td>
+</tr>
+<tr class="even">
+<td>De tos</td>
+<td>D’esquena</td>
+</tr>
+<tr class="odd">
+<td>Ara com ara</td>
+<td>Mentre no canvien les coses</td>
+</tr>
+<tr class="even">
+<td>Fer denteta</td>
+<td>Fer enveja</td>
+</tr>
+<tr class="odd">
+<td>Tindre corretja</td>
+<td>Tindre paciència</td>
+</tr>
+<tr class="even">
+<td>De gom a gom</td>
+<td>Completament ple</td>
+</tr>
+<tr class="odd">
+<td>Tindre barra</td>
+<td>Tindre atreviment</td>
+</tr>
+<tr class="even">
+<td>Tindre bona barra</td>
+<td>Ser molt menjador</td>
+</tr>
+<tr class="odd">
+<td>Fer xixines</td>
+<td>Destrossar</td>
+</tr>
+<tr class="even">
+<td>No fer un brot</td>
+<td>No fer gens de faena</td>
+</tr>
+<tr class="odd">
+<td>Fer feredat</td>
+<td>Horroritzar</td>
+</tr>
+<tr class="even">
+<td>A espentes i redolons</td>
+<td>Amb moltes dificultats</td>
+</tr>
+<tr class="odd">
+<td>Anar fent</td>
+<td>Subsistir sense massa progressos</td>
+</tr>
+<tr class="even">
+<td>Perdre l’oremus</td>
+<td>Embogir</td>
+</tr>
+<tr class="odd">
+<td>Fer-se seu</td>
+<td>Guanyar-se la bona voluntat d’algú</td>
+</tr>
+<tr class="even">
+<td>A tort i a dret</td>
+<td>Sense reflexió</td>
+</tr>
+<tr class="odd">
+<td>A boqueta de nit (o a poqueta nit)</td>
+<td>Quan comença a fosquejar</td>
+</tr>
+<tr class="even">
+<td>Ficar el rem</td>
+<td>Enganyar-se</td>
+</tr>
+<tr class="odd">
+<td>Fer aigües</td>
+<td>Amenaçar ruïna</td>
+</tr>
+<tr class="even">
+<td>Estar fet una coca</td>
+<td>Estar molt malalt o esgotat</td>
+</tr>
+<tr class="odd">
+<td>Fer creu i ratlla</td>
+<td>Oblidar o perdonar alguna cosa</td>
+</tr>
+<tr class="even">
+<td>A cau d’orella</td>
+<td>Parlar en veu molt baixa</td>
+</tr>
+<tr class="odd">
+<td>Ficar cullerada</td>
+<td>Intervindre sense ser demanat</td>
+</tr>
+<tr class="even">
+<td>Estar al cas</td>
+<td>Atendre</td>
+</tr>
+<tr class="odd">
+<td>Lligar-se bé les espardenyes</td>
+<td>Agarrar coratge</td>
+</tr>
+<tr class="even">
+<td>No poder pair</td>
+<td>Tindre entravessat</td>
+</tr>
+<tr class="odd">
+<td>Ser una aranya</td>
+<td>Traure benefici de tot</td>
+</tr>
+<tr class="even">
+<td>Pujar a cavall</td>
+<td>Dominar</td>
+</tr>
+<tr class="odd">
+<td>Tirar de veta</td>
+<td>Gastar</td>
+</tr>
+<tr class="even">
+<td>Ser al cap del carrer</td>
+<td>Concloure una discussió</td>
+</tr>
+<tr class="odd">
+<td>Prendre-s’ho a la valenta</td>
+<td>Prendre-s’ho amb valor</td>
+</tr>
+<tr class="even">
+<td>Tindre bona barra</td>
+<td>Menjar molt</td>
+</tr>
+<tr class="odd">
+<td>Xano-xano</td>
+<td>Lentament</td>
+</tr>
+<tr class="even">
+<td>A hores d’ara</td>
+<td>Actualment</td>
+</tr>
+<tr class="odd">
+<td>A la vora de</td>
+<td>Prop de</td>
+</tr>
+<tr class="even">
+<td>Clar i net</td>
+<td>Sense subterfugis</td>
+</tr>
+<tr class="odd">
+<td>Muts i la gàbia</td>
+<td>A callar</td>
+</tr>
+<tr class="even">
+<td>A mans juntes</td>
+<td>Pregant molt</td>
+</tr>
+<tr class="odd">
+<td>De per riure</td>
+<td>No de debo</td>
+</tr>
+<tr class="even">
+<td>A la valenta</td>
+<td>Bravament</td>
+</tr>
+<tr class="odd">
+<td>Ser un cap de suro</td>
+<td>Neci</td>
+</tr>
+<tr class="even">
+<td>Tindre nas</td>
+<td>Ser perspicaç</td>
+</tr>
+<tr class="odd">
+<td>En acabant</td>
+<td>Després</td>
+</tr>
+<tr class="even">
+<td>A rossegons</td>
+<td>Reptant</td>
+</tr>
+<tr class="odd">
+<td>Bona cosa de</td>
+<td>Quantitat considerable</td>
+</tr>
+<tr class="even">
+<td>A estall</td>
+<td>A preu fet</td>
+</tr>
+<tr class="odd">
+<td>A totes passades</td>
+<td>Siga com siga</td>
+</tr>
+<tr class="even">
+<td>De mà de mestre</td>
+<td>Molt ben fet</td>
+</tr>
+<tr class="odd">
+<td>A la dula</td>
+<td>Sense control de ningu</td>
+</tr>
+<tr class="even">
+<td>A tort</td>
+<td>Sense raó, injustament</td>
+</tr>
+<tr class="odd">
+<td>Fer costat</td>
+<td>Ajudar</td>
+</tr>
+<tr class="even">
+<td>Tindre la mà foradada</td>
+<td>Ser malgastador</td>
+</tr>
+<tr class="odd">
+<td>Fil per randa</td>
+<td>Detalladament</td>
+</tr>
+<tr class="even">
+<td>Fer xixines</td>
+<td>Destrossar</td>
+</tr>
+<tr class="odd">
+<td>No fer-ne un brot</td>
+<td>No fer gens de faena</td>
+</tr>
+<tr class="even">
+<td>Fer feredat</td>
+<td>Horroritzar</td>
+</tr>
+<tr class="odd">
+<td>Faltar un bull (a algú)</td>
+<td>Tenir poc de trellat</td>
+</tr>
+<tr class="even">
+<td>Omplir el pap</td>
+<td>Menjar</td>
+</tr>
+<tr class="odd">
+<td>Tocar de peus a terra</td>
+<td>Ser realista</td>
+</tr>
+<tr class="even">
+<td>Fer eixir els cabells blancs</td>
+<td>Fer passar penes</td>
+</tr>
+<tr class="odd">
+<td>A espentes i redolons</td>
+<td>Amb moltes dificultats</td>
+</tr>
+<tr class="even">
+<td>Ballar l’aigua (a algú)</td>
+<td>Afalagar</td>
+</tr>
+<tr class="odd">
+<td>Tirar el lleu</td>
+<td>Fer un gran esforc</td>
+</tr>
+<tr class="even">
+<td>No tindre un clau</td>
+<td>No tindre diners</td>
+</tr>
+<tr class="odd">
+<td>Fer el pes</td>
+<td>Convéncer</td>
+</tr>
+<tr class="even">
+<td>Fer costat</td>
+<td>Ajudar algú</td>
+</tr>
+<tr class="odd">
+<td>No deixar florir (alguna cosa)</td>
+<td>Gastar-la prompte</td>
+</tr>
+<tr class="even">
+<td>Fer el borinot</td>
+<td>Remugar en veu baixa</td>
+</tr>
+<tr class="odd">
+<td>Anar com un Adam</td>
+<td>Mal vestit</td>
+</tr>
+<tr class="even">
+<td>Tindre mà esquerra</td>
+<td>Saber fer les coses amb diplomàcia</td>
+</tr>
+<tr class="odd">
+<td>Fer el manta</td>
+<td>Gandulejar</td>
+</tr>
+<tr class="even">
+<td>Escurar la butxaca</td>
+<td>Llevar-li els diners a algu</td>
+</tr>
+<tr class="odd">
+<td>Un ramat de</td>
+<td>gran quantitat</td>
+</tr>
+<tr class="even">
+<td>Fer la visita del metge</td>
+<td>estar poc de temps</td>
+</tr>
+<tr class="odd">
+<td>No saber avindre’s</td>
+<td>estranyar-se’n molt</td>
+</tr>
+<tr class="even">
+<td>Fer i desfer</td>
+<td>dirigir</td>
+</tr>
+<tr class="odd">
+<td>Clar i ras</td>
+<td>sense embuts</td>
+</tr>
+<tr class="even">
+<td>Jugar-s’hi el coll</td>
+<td>assegurar plenament alguna cosa</td>
+</tr>
+<tr class="odd">
+<td>Jugar-se la camisa</td>
+<td>arriscar-ho tot</td>
+</tr>
+<tr class="even">
+<td>Buscar les cosquerelles</td>
+<td>provocar</td>
+</tr>
+<tr class="odd">
+<td>No fer ni fred ni calor (una cosa a algú)</td>
+<td>ser-li indiferent</td>
+</tr>
+<tr class="even">
+<td>Fet i pastat</td>
+<td>exacte, idèntic</td>
+</tr>
+<tr class="odd">
+<td>Vindre a tall</td>
+<td>Ser oportu</td>
+</tr>
+<tr class="even">
+<td>Voler fondre’s</td>
+<td>Avergonyir-se</td>
+</tr>
+<tr class="odd">
+<td>Posar-se tou</td>
+<td>Estar moll</td>
+</tr>
+<tr class="even">
+<td>Tornar la pilota a joc</td>
+<td>Puntualitzar</td>
+</tr>
+<tr class="odd">
+<td>Vore’s verd (algú)</td>
+<td>Trobar-se en dificultats</td>
+</tr>
+<tr class="even">
+<td>A mansalva</td>
+<td>En gran quantitat</td>
+</tr>
+<tr class="odd">
+<td>De tard en tard</td>
+<td>A grans intervals</td>
+</tr>
+<tr class="even">
+<td>En carn i ossos</td>
+<td>En persona</td>
+</tr>
+<tr class="odd">
+<td>En un tancar i obrir d’ulls</td>
+<td>Instantàniament</td>
+</tr>
+<tr class="even">
+<td>Fora de combat</td>
+<td>Vençut</td>
+</tr>
+<tr class="odd">
+<td>Deixar pelat</td>
+<td>sense diners</td>
+</tr>
+<tr class="even">
+<td>Tocar ferro</td>
+<td>previndre’s contra la mala sort</td>
+</tr>
+<tr class="odd">
+<td>Fer salat</td>
+<td>ser graciós</td>
+</tr>
+<tr class="even">
+<td>Tocat i posat</td>
+<td>primmirat</td>
+</tr>
+<tr class="odd">
+<td>Ni fa ni fum</td>
+<td>no tindre cap importància</td>
+</tr>
+<tr class="even">
+<td>De via estreta</td>
+<td>de poca importància</td>
+</tr>
+<tr class="odd">
+<td>Ser un clau</td>
+<td>ser puntual</td>
+</tr>
+<tr class="even">
+<td>Ser com la cera</td>
+<td>ser dòcil</td>
+</tr>
+<tr class="odd">
+<td>Afluixar cordons</td>
+<td>gastar diners</td>
+</tr>
+<tr class="even">
+<td>Anar calent</td>
+<td>Resultar apallissat</td>
+</tr>
+<tr class="odd">
+<td>No saber el que es pesca</td>
+<td>Ignorar</td>
+</tr>
+<tr class="even">
+<td>Fer plat (d’una cosa)</td>
+<td>Donar una gran importància a un tema</td>
+</tr>
+<tr class="odd">
+<td>Tindre bona garra</td>
+<td>Ser caminador</td>
+</tr>
+<tr class="even">
+<td>Tirar el dau</td>
+<td>Decidir-se</td>
+</tr>
+<tr class="odd">
+<td>Pujar al cap</td>
+<td>Marejar</td>
+</tr>
+<tr class="even">
+<td>Ser (algú) un colador</td>
+<td>Beure en excés</td>
+</tr>
+<tr class="odd">
+<td>Ser un cap gros</td>
+<td>Ser un sabut</td>
+</tr>
+<tr class="even">
+<td>Acabar en punta</td>
+<td>Acabar malament</td>
+</tr>
+<tr class="odd">
+<td>Afluixar la llengua</td>
+<td>Parlar indegudament</td>
+</tr>
+<tr class="even">
+<td>Estar de pega</td>
+<td>No tindre sort</td>
+</tr>
+<tr class="odd">
+<td>més que més</td>
+<td>sobretot</td>
+</tr>
+<tr class="even">
+<td>a la bestreta</td>
+<td>per endavant</td>
+</tr>
+<tr class="odd">
+<td>d’esme</td>
+<td>maquinalment</td>
+</tr>
+<tr class="even">
+<td>d’antuvi</td>
+<td>abans de tota altra cosa</td>
+</tr>
+<tr class="odd">
+<td>pertot arreu</td>
+<td>per totes bandes</td>
+</tr>
+<tr class="even">
+<td>pel cap alt</td>
+<td>com a màxim</td>
+</tr>
+<tr class="odd">
+<td>a l’aguait</td>
+<td>vigilant d’amagat</td>
+</tr>
+<tr class="even">
+<td>a rossegons</td>
+<td>arrossegant-se</td>
+</tr>
+<tr class="odd">
+<td>de valent</td>
+<td>fermament</td>
+</tr>
+<tr class="even">
+<td>de gom a gom</td>
+<td>pleníssim</td>
+</tr>
+<tr class="odd">
+<td>a terminis</td>
+<td>a crèdit</td>
+</tr>
+<tr class="even">
+<td>a les palpentes</td>
+<td>palpant en la foscor</td>
+</tr>
+<tr class="odd">
+<td>de colp i volta</td>
+<td>a la impensada</td>
+</tr>
+<tr class="even">
+<td>a cau d’orella</td>
+<td>a sotaveu de franc</td>
+</tr>
+<tr class="odd">
+<td>de biaix</td>
+<td>de gairell</td>
+</tr>
+<tr class="even">
+<td>a gratcient</td>
+<td>a posta</td>
+</tr>
+<tr class="odd">
+<td>Si més no</td>
+<td>si altra cosa no</td>
+</tr>
+<tr class="even">
+<td>d’amagat</td>
+<td>de sotamà</td>
+</tr>
+<tr class="odd">
+<td>comptat i debatut</td>
+<td>fet i fet</td>
+</tr>
+<tr class="even">
+<td>a ulls clucs</td>
+<td>a pies juntillas</td>
+</tr>
+<tr class="odd">
+<td>a les palpentes</td>
+<td>a tientas</td>
+</tr>
+<tr class="even">
+<td>a rebolcons</td>
+<td>a tumbos</td>
+</tr>
+<tr class="odd">
+<td>de cap a cap</td>
+<td>de cabo a rabo</td>
+</tr>
+<tr class="even">
+<td>a tort i a dret</td>
+<td>a diestro y siniestro</td>
+</tr>
+<tr class="odd">
+<td>a la gatzoneta</td>
+<td>en cuclillas</td>
+</tr>
+<tr class="even">
+<td>a lloure</td>
+<td>a sus anchas de retop</td>
+</tr>
+<tr class="odd">
+<td>a recer</td>
+<td>a cubierto</td>
+</tr>
+<tr class="even">
+<td>sense solta ni volta</td>
+<td>sin ton ni son</td>
+</tr>
+</tbody>
+</table>
