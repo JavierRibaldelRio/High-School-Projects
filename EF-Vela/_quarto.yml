@@ -1,0 +1,46 @@
+project:
+  type: website
+  preview: 
+    port: 3000
+    browser: false
+  
+
+execute:
+  freeze: auto
+
+website:
+  title: "Vela Ligera"
+  navbar:
+    background: "#a77d00"
+    right:
+      - href: pages/historia.qmd
+      - href: pages/beneficios.qmd
+      - href: pages/partes.qmd
+      - href: pages/vientos.qmd
+      - href: pages/categorias.qmd
+      - text: Laser
+        menu:       
+        - href: pages/laser.qmd
+          text: Categoría Laser
+        - href: pages/video.qmd
+          text: Vídeo Laser
+  
+  search: 
+    type: textbox
+  page-footer:
+    left: Educación Física
+    center: Javier Ribal del Río 1º Bachillerato A Nº 23
+    right: Curso 2022-23
+    background: info
+  
+    
+  
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+   
+    number-sections: true
+    code-overflow: wrap
+    highlight-style: arrow

@@ -1,0 +1,64 @@
+---
+title: Laser
+---
+
+Esta sección está centrada en la categoría *Laser* y sus modalidades.
+
+# Descripción
+
+El *Laser* es un velero de un tripulante. El casco pesa 59 Kg. Además ha debe disponer de una eslora (longitud de una embarcación desde la proa hasta la popa) de 4,23 metros, mientras que la manga (longitud de una embarcación de babor a estribor) ha de ser de 1,42 metros. Gracias a su peso tan ligero es capaz de pasar por encima de las olas sin que se rompan.
+
+![Laser](../img/laser.png)
+
+En relación a los aparejos (material de un barco necesario para su funcionamiento), el Laser necesita: una vela latina, la base que se une a la punta para conformar el mástil, la botavara, la orza, el timón, la escota, el pajarín, el cunningam y la contra.
+
+## Modalidades
+
+Dentro de la categoría, encontramos 3 tipos de modalidades
+
+### Laser 4.7
+
+La modalidad 4.7 es la recomendada para gente sin conocimientos de navegación y para jóvenes. Es la aconsejada para personas con peso entre 35 y 55 Kg. El área de la vela es 4,20m².
+
+
+### Laser Radial
+
+La modalidad Laser Radial se recomienda para tripulantes que pesen entre 55 y 75 Kg. Tiene un área vélica de 5.76 m², además, es categoría olímpica con modalidad únicamente femenina.
+
+### Laser Standard
+
+Recomendada para personas con un peso superior a los 80 Kg, la vela mide 7.06 m². Es categoría olímpica con únicamente modalidad masculina.
+
+<br>
+
+![Clasificación de Laser](../img/FormulaLaser.JPG)
+
+# Historia
+
+El Laser fue ideado por Bruce Kirby y Ian Bruce (diseñador industrial) en 1969. Ambos se dieron cuenta de la necesidad de crear un barco similar al Snipe, que fuese barato de fabricar y fácil de montar y además que pudiese ser transportado sobre un coche. El Laser se mostró al público en el Salón Náutico de 1971. Finalmente en 1974 fue reconocido por la ISAF como categoría internacional. A día de hoy, es la segunda embarcación de un solo tripulante más extendida del mundo, por detrás del Optimist.
+
+![Dos embarcaciones Laser sobre la baca de un automóvil](../img/laser-coche.jpg)
+
+# Ganadores Tokio 2020
+
+## Categoría Masculina
+
+1º Matt Wearn (Australia)
+
+2º Tonic Stipanovi (Croacia)
+
+3º Hermann Tomasgaard (Noruega)
+
+
+![Matt Wearn](../img/Matt.png)
+
+## Categoría Femenina
+
+1º Anne-marie Rindom (Dinamarca)
+
+2º Josefin Olsson (Suecia)
+
+3º Hermann Tomasgaard (Países Bajos)
+
+
+![Anne-Marie Rindom](../img/ann.jpg)
