@@ -1,0 +1,65 @@
+/*-- scss:defaults --*/
+main {
+
+    text-align: justify;
+
+    text-indent: 40px;
+}
+
+.botones-separados {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+    padding: 0 5vmin;
+}
+
+h1,
+h2,
+li,
+a,
+button {
+
+    text-indent: 0px;
+}
+
+header span {
+
+    color: white !important;
+}
+
+.nolink {
+
+    text-decoration: none;
+
+
+    color: white;
+
+    cursor: pointer;
+
+
+    margin: 8vmin 0;
+}
+
+.nolink:hover {
+
+    color: white !important
+}
+
+img {
+
+    max-height: 100vh !important;
+    width: auto;
+}
+
+
+.centrado,
+figcaption {
+
+    text-align: center !important;
+}
+
+.nomain {
+
+    text-align: left;
+}

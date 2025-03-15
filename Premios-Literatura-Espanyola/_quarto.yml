@@ -1,0 +1,29 @@
+project:
+  type: website
+  preview:
+    port: 3000
+    browser: false
+
+website:
+  title: Premios de la Literatura Española
+  search: false 
+ 
+  navbar:
+    collapse: false
+    left: []
+  
+  page-footer: 
+    right: "Javier Ribal del Río Nº 23"
+    left: "Castellano 1º Bachillerato A"
+    background: "dark"
+    border: true
+      
+format:
+  html:
+    theme: 
+    - flatly
+    - styles.scss
+    toc: true
+
+
+
