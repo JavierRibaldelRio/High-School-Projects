@@ -4,18 +4,18 @@ A repository containing a curated collection of projects and websites developed 
 
 ### 3rd Year
 
-- Sevilla2032: a website for project where I had to organise an Olimpic games in Seville. Built with HTML, CSS & JS
+- [Sevilla2032](https://sevilla2032.netlify.app/): a website for project where I had to organise an Olimpic games in Seville. Built with HTML, CSS & JS
 
 - [Som-Llinguistes](https://somllinguistes.netlify.app/): a website for a presentation of Valencian Subject. Built with Rmarkdown & HTML
 
 - [Guia CSS](https://tutorial-guia-css.netlify.app/): a website guide for learning the basics of CSS. Built with Rmarkdown & HTML
 
-- JuegoVerdaderoFalso: a game to review the content of the 3rd year of secondary school. Built with React.JS, CSS & HTML
+- [JuegoVerdaderoFalso](https://veradadero-falso-iaee.netlify.app/): a game to review the content of the 3rd year of secondary school. Built with React.JS, CSS & HTML
 
 
 ### 4th Year
 
-- Revolucio-Industrial: a website for an exposition of History subject. Built with Rmarkdown & HTML
+- [Revolucio-Industrial](https://revolucio-industrial.netlify.app/): a website for an exposition of History subject. Built with Rmarkdown & HTML
 
 - [Romun](https://romun.netlify.app/): a web app to see the date in Spanish typical format using roman numbers. Built with React.JS, CSS & HTML 
 
@@ -23,7 +23,7 @@ A repository containing a curated collection of projects and websites developed 
 
 - [Historia-de-la-Filosofia](https://historia-de-la-filosofia.netlify.app/): a website for a Philosophy assignment. Built with Quarto, CSS & HTML
 
-- EF-Vela: a website to promote sailing for PE. Built with Quarto, CSS & HTML
+- [EF-Vela](https://vela-ligera.netlify.app/): a website to promote sailing for PE. Built with Quarto, CSS & HTML
 
 - [Premios-Literatura-Espanyola](https://premios-literatura-espanola.netlify.app/): a website related to the diferent awards in Spanish language. Built with Quarto, CSS & HTML
 
